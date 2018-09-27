@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gerenciador de Livros</string>
+    <string name="add">Adicionar</string>
+    <string name="buscar">Buscar</string>
+    <string name="cadastro">Cadastro de Livro</string>
+    <string name="nome">Nome</string>
+    <string name="autor">Autor</string>
+    <string name="genero">Gênero</string>
+    <string name="dataLancamento">Data de Lançamento</string>
+    <string name="btnCadastro">Cadastrar</string>
+    <string name="delete">Deletar</string>
+    <string name="update">Atualizar</string>
+    <string name="sim">SIM</string>
+    <string name="nao">NÃO</string>
+    <string name="atencao">Atenção</string>
+    <string name="msgExlcui">Deseja exlcuir o livro?</string>
+    <string name="atualizar">Atualizar</string>
+</resources>
